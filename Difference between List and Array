@@ -33,15 +33,15 @@ Key Points about Arrays:
                                                               Key Differences:
                                                             	List   |   Array 
 
-1. Data Type	: Can store mixed types (numbers, strings, etc.)       |	Stores same type of data (e.g., all integers)
+1. Data Type	: Can store mixed types (numbers, strings, etc.)       |	 Stores same type of data (e.g., all integers)
 
-2. Performance	: Slower for large numbers, not optimized for math   |	Faster for large numbers, optimized for math
+2. Performance	: Slower for large numbers, not optimized for math     |	 Faster for large numbers, optimized for math
 
-3. Memory :	Can consume more memory, as it stores type information   |	More memory efficient for large datasets
+3. Memory :	Can consume more memory, as it stores type information    |	 More memory efficient for large datasets
 
-3. Size :	Dynamic size (can grow/shrink)                             | Fixed size, but can reshape in NumPy
+3. Size :	Dynamic size (can grow/shrink)                            |  Fixed size, but can reshape in NumPy
 
-4. Usage	 : General-purpose use, handling different data types      |	Math-heavy tasks, large datasets, Data Science
+4. Usage	 : General-purpose use, handling different data types        |	 Math-heavy tasks, large datasets, Data Science
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
